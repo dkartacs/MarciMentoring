@@ -1,4 +1,4 @@
-package com.marci.mentoring;
+package com.marci.mentoring.util;
 
 public class Math {
 
