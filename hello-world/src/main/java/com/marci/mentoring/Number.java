@@ -25,7 +25,7 @@ public class Number {
     }
 
     public void substract(int number){
-        this.number -= this.number + number;
+        this.number -= number;
     }
 
     public boolean isPrime() {
