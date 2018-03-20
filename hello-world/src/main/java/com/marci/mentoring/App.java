@@ -14,5 +14,7 @@ public class App {
 
         System.out.println("Is Marci at his prime: " + ageOfMarci.isPrime());
         System.out.println("Is Zoli at his prime: " + ageOfZoli.isPrime());
+        Tutorial tutorial = new Tutorial("asd");
+        tutorial.calculate(3, true,"asd");
     }
 }
